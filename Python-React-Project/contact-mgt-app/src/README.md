@@ -10,7 +10,7 @@ An example of React login system project with basic user functionality.
 
 
 ## Why does this repository exist?
-Many beginners with basic knowledge are not sure how to start their portfolios; and with this project we want to encourage them to build something that can be applied to future projects, in this case a first part just the front end but that in the future can be coupled in a backend with a connection for example with DB No SQL such as MongoDB
+This is a project to create a contact management app that is fully responsive and cross compactible accross browsers in this case a first part just the front end but that is also coupled with a backend in a different repository with a connection for example with DB No SQL such as MongoDB
 
 
 ## Requirements
