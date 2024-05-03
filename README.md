@@ -4,8 +4,7 @@ An example of React login system project with basic user functionality.
 
 
 # Screenshoots
-| Log In | Create an account |
-| -------|--------------|
+
 | <img src="./signin.png" width="200"> | <img src="./signup.png" width="200"> | <img src="./Homepage.png" width="200"> | 
 <img src="./addcontact.png" width="200"> | <img src="./contactlist.png" width="200"> |
 
