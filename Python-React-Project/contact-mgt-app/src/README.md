@@ -6,7 +6,7 @@ An example of React login system project with basic user functionality.
 # Screenshoots
 | Log In | Create an account |
 | -------|--------------|
-| <img src="./screens/signIn.png" width="200"> | <img src="./screens/signUp.png" width="200"> | 
+| <img src="./screens/signin.png" width="200"> | <img src="./screens/signup.png" width="200"> | 
 
 
 ## Why does this repository exist?
