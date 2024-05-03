@@ -5,8 +5,8 @@ An example of React login system project with basic user functionality.
 
 # Screenshoots
 
-| <img src="./signin.png" width="200"> | <img src="./signup.png" width="200"> | <img src="./Homepage.png" width="200"> | 
-<img src="./addcontact.png" width="200"> | <img src="./contactlist.png" width="200"> |
+<img src="./signin.png" width="200">  <img src="./signup.png" width="200"> <img src="./Homepage.png" width="200">
+<img src="./addcontact.png" width="200"> <img src="./contactlist.png" width="200">
 
 
 ## Why does this repository exist?
