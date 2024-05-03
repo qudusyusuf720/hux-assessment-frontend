@@ -21,10 +21,10 @@ Many beginners with basic knowledge are not sure how to start their portfolios; 
 
    ### 🚀Clone the project
   ```bash
-  https://github.com/DaveSimoes/login-signup-react-bootstrap.git
+  https://github.com/qudusyusuf720/hux-assessment-frontend.git
    ```
    ```bash
-  cd login-signup-ui
+  cd contact-mgt-app
    ```
   
 
