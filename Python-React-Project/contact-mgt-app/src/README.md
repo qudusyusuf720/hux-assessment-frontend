@@ -31,9 +31,9 @@ This is a project to create a contact management app that is fully responsive an
 
   ## 🛠 Installation and Setup Instructions /Instruções para instalação.
   
-  1. Installation: `npm install`
+  1. Installation: `yarn install`
 
-  2. In the project directory, you can run: `npm start`
+  2. In the project directory, you can run: `yarn start`
      
 
  ## License
